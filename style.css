@@ -100,5 +100,9 @@ body{
     .scoreboard{
         padding:5px 5px  ;
     }
+    .bubble{
+        overflow: hidden;
+        margin-top: 9px;
+    }
     
 }
